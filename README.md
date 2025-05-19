@@ -89,7 +89,7 @@ A complete 3D platformer with:
 
     💮 Endless level generator – procedurally generates new sections as the player progresses
 
-## 🩷 Currently working at:
+## 🩷 Currently working on:
   
   🤍 **2.5D Roguelike** with my diploma team (Unity) 🤍
   
