@@ -70,6 +70,25 @@ A complete 3D platformer with:
     💮 Collectibles hidden throughout the levels
 
     💮 Secret passages leading to bonus areas and shortcuts
+
+## 🤍 Unreal Engine 5 :
+(2022-2023)
+2.5D Platformer
+
+    💮 Timer system tracking level completion time
+
+    💮 Respawn mechanics after falling
+
+    💮 Dynamic difficulty scaling – the game becomes more challenging over time
+
+    💮 Dash attack mechanic – allows dashing into enemies to eliminate them, with a cooldown
+
+    💮 Collectible coins scattered throughout the level
+
+    💮 In-game HUD displaying key gameplay elements
+
+    💮 Endless level generator – procedurally generates new sections as the player progresses
+
   
 ## 🤍 How to reach me:
 
