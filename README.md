@@ -6,9 +6,9 @@
 
 ## 🤍 My main interests:
 
-- 🎮 Game development (mainly in Unity, learning Unreal Engine)
+### 🎮 Game development (mainly in Unity, learning Unreal Engine)
 
-- 🧠 C# / C++ / Blueprints for gameplay programming
+### 🧠 C# / C++ / Blueprints for gameplay programming
 
 - 🐍 Python for creating simple AI models
 
