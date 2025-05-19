@@ -72,8 +72,8 @@ A complete 3D platformer with:
     💮 Secret passages leading to bonus areas and shortcuts
 
 ## 🤍 Unreal Engine 5 :
-(2022-2023)
-2.5D Platformer
+**2.5D Platformer**
+ (2022-2023)
 
     💮 Timer system tracking level completion time
 
