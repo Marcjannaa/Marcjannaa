@@ -4,7 +4,7 @@
 - A student
 - Unity & Python Tutor
 
-💡 My main interests:
+## 💡 My main interests:
 
 - 🎮 Game development (mainly in Unity, learning Unreal Engine)
 
