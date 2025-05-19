@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-# H1 I am
+# I am
 - A student
 - Unity & Python Tutor
 
@@ -18,7 +18,7 @@
 
 - 🌐 Exploring tools like Blender and ProCreate
 
-## H2 Some examples of my previous projects (Unity 3D) :
+## Some examples of my previous projects (Unity 3D) :
 
 3D Platformer (My first project)
 (around 2016, created several simmilar platformers afterwards)
@@ -69,5 +69,5 @@ A complete 3D platformer with:
 
 - 🕳️ Secret passages leading to bonus areas and shortcuts
   
-### H3 How to reach me:
+### How to reach me:
 [LinkedIn] (www.linkedin.com/in/marcjanna-surgiewicz-śliwińska-583aaa291)
