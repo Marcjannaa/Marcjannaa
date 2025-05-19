@@ -70,4 +70,5 @@ A complete 3D platformer with:
 - 🕳️ Secret passages leading to bonus areas and shortcuts
   
 ### How to reach me:
-[LinkedIn](www.linkedin.com/in/marcjanna-surgiewicz-śliwińska-583aaa291)
+- [LinkedIn](www.linkedin.com/in/marcjanna-surgiewicz-śliwińska-583aaa291)
+- [Mail](mailto:mar.surgo@gmail.com)
