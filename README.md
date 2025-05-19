@@ -8,13 +8,13 @@
 
 - 🎮 Game development (mainly in Unity, learning Unreal Engine)
 
-- 🖌️ Digital art & 2D/3D asset creation
-
 - 🧠 C# / C++ / Blueprints for gameplay programming
 
-- 🐍 Basic Python for scripting and automation
+- 🐍 Python for creating simple AI models
 
-- 🎨 Level design & visual storytelling
+- 🎨 Level design & storytelling
+
+- 🖌️ Digital art & 2D/3D asset creation
 
 - 🌐 Exploring tools like Blender and ProCreate
 
