@@ -18,7 +18,7 @@ I am
 
 - 🌐 Exploring tools like Blender and ProCreate
 
-Some examples of my previous projects (Unity 3D) :
+H2 Some examples of my previous projects (Unity 3D) :
 
 3D Platformer (My first project)
 (around 2016, created several simmilar platformers afterwards)
