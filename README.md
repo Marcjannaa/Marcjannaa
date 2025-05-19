@@ -41,13 +41,13 @@ Survival
 (2019)
 A forest survival game where you play as a child, featuring:
 
--🌳 Fruit gathering system in a forest environment
+- 🌳 Fruit gathering system in a forest environment
 
--🧒 Playable child character with survival elements
+- 🧒 Playable child character with survival elements
 
--💥 Fall damage system
+- 💥 Fall damage system
 
--👾 Basic enemy AI – mysterious creatures appearing at night
+- 👾 Basic enemy AI – mysterious creatures appearing at night
 
 Platformer
 (2020-2021)
