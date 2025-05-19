@@ -20,7 +20,7 @@
 
     💮 Exploring tools like Blender and ProCreate
 
-## 🤍 Some examples of my previous projects (Unity 3D) :
+## 🤍 Some examples of my previous projects (Unity 3D):
 
 **3D Platformer** (My first project)
 (around 2016, created several simmilar platformers afterwards)
@@ -71,7 +71,7 @@ A complete 3D platformer with:
 
     💮 Secret passages leading to bonus areas and shortcuts
 
-## 🤍 Unreal Engine 5 :
+## 🤍 Unreal Engine 5:
 **2.5D Platformer**
  (2022-2023)
 
