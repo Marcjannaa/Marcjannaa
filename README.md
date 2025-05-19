@@ -93,7 +93,7 @@ A complete 3D platformer with:
   
   🤍 **2.5D Roguelike** with my diploma team (Unity) 🤍
   
-  🤍 **2D Co-op platformer** with my friend (Unity) 🤍
+  🤍 **2D Co-op Platformer** with my friend (Unity) 🤍
 
 ## 🤍 How to reach me:
 
