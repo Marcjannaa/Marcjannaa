@@ -4,7 +4,7 @@ I am
 - A student
 - Unity & Python Tutor
 
-##💡 My main interests:
+💡 My main interests:
 
 - 🎮 Game development (mainly in Unity, learning Unreal Engine)
 
@@ -18,16 +18,16 @@ I am
 
 - 🌐 Exploring tools like Blender and ProCreate
 
-##Previous projects (Unity) :
+Previous projects (Unity) :
 
-##3D Platformer (My first project)
+3D Platformer (My first project)
 (around 2016, created several simmilar platformers afterwards)
 
 - 🔁 Respawn mechanics after falling or failing
 
 - 🧑‍🎨 In-game HUD
 
-##Online Shooter
+Online Shooter
 (2018)
 A basic multiplayer shooter featuring:
 
@@ -37,7 +37,7 @@ A basic multiplayer shooter featuring:
 
 - 🧠 Basic NPC AI for target practice or PvE scenarios
 
-##Survival
+Survival
 (2019)
 A forest survival game where you play as a child, featuring:
 
@@ -49,7 +49,7 @@ A forest survival game where you play as a child, featuring:
 
 -👾 Basic enemy AI – mysterious creatures appearing at night
 
-##Platformer
+Platformer
 (2020-2021)
 A complete 3D platformer with:
 
@@ -63,5 +63,5 @@ A complete 3D platformer with:
 
 - 🧍‍♂️ Character selection feature
   
-## How to reach me:
+How to reach me:
 [LinkedIn] (www.linkedin.com/in/marcjanna-surgiewicz-śliwińska-583aaa291)
