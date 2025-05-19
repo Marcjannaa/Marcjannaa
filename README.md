@@ -1,10 +1,10 @@
-## H1 Hi there 👋
+## Hi there 👋
 
-## H2 I am
+I am
 - A student
 - Unity & Python Tutor
 
-## H2💡 My main interests:
+##💡 My main interests:
 
 - 🎮 Game development (mainly in Unity, learning Unreal Engine)
 
@@ -18,7 +18,7 @@
 
 - 🌐 Exploring tools like Blender and ProCreate
 
-## H2 Previous projects (Unity) :
+##Previous projects (Unity) :
 
 ##3D Platformer (My first project)
 (around 2016, created several simmilar platformers afterwards)
