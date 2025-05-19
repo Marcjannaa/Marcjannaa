@@ -51,7 +51,7 @@ A forest survival game where you play as a child, featuring:
 
     💮 Basic enemy AI – mysterious creatures appearing at night
 
-**Platformer**
+**3D Platformer**
 (2020-2021)
 A complete 3D platformer with:
   
