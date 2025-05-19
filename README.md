@@ -2,23 +2,23 @@
 
 ## 🤍 I am
   
-  💮 A student
+    💮 A student
   
-  💮Unity & Python Tutor
+    💮 Unity & Python Tutor
 
 ## 🤍 My main interests:
 
-  💮 Game development (mainly in Unity, learning Unreal Engine)
+    💮 Game development (mainly in Unity, learning Unreal Engine)
 
-  💮 C# / C++ / Blueprints for gameplay programming
+    💮 C# / C++ / Blueprints for gameplay programming
 
-  💮 Python for creating simple AI models
+    💮 Python for creating simple AI models
 
-  💮 Level design & storytelling
+    💮 Level design & storytelling
  
-  💮 Digital art & 2D/3D asset creation
+    💮 Digital art & 2D/3D asset creation
 
-  💮 Exploring tools like Blender and ProCreate
+    💮 Exploring tools like Blender and ProCreate
 
 ## 🤍 Some examples of my previous projects (Unity 3D) :
 
