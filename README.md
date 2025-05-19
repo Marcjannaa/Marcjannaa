@@ -59,7 +59,7 @@ A complete 3D platformer with:
 
     💮 Respawn mechanics after falling
 
-    💮 Full gameplay loop – approx. 2 hours to complete from start to finish
+    💮 Full gameplay loop – approx. 3 hours to complete from start to finish
 
     💮 Custom UI including menus and in-game HUD
 
