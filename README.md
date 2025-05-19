@@ -89,7 +89,12 @@ A complete 3D platformer with:
 
     💮 Endless level generator – procedurally generates new sections as the player progresses
 
+## 🩷 Currently working at:
   
+  🤍 **2.5D Roguelike** with my diploma team (Unity) 🤍
+  
+  🤍 **2D Co-op platformer** with my friend (Unity) 🤍
+
 ## 🤍 How to reach me:
 
   💮 **[LinkedIn](www.linkedin.com/in/marcjanna-surgiewicz-śliwińska-583aaa291)**
