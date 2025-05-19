@@ -4,7 +4,7 @@
 - A student
 - Unity & Python Tutor
 
-## 💡 My main interests:
+## 🤍 My main interests:
 
 - 🎮 Game development (mainly in Unity, learning Unreal Engine)
 
@@ -18,7 +18,7 @@
 
 - 🌐 Exploring tools like Blender and ProCreate
 
-## Some examples of my previous projects (Unity 3D) :
+## 🤍 Some examples of my previous projects (Unity 3D) :
 
 3D Platformer (My first project)
 (around 2016, created several simmilar platformers afterwards)
@@ -69,6 +69,6 @@ A complete 3D platformer with:
 
 - 🕳️ Secret passages leading to bonus areas and shortcuts
   
-## How to reach me:
+## 🤍 How to reach me:
 - [LinkedIn](www.linkedin.com/in/marcjanna-surgiewicz-śliwińska-583aaa291)
 - [Mail](mailto:mar.surgo@gmail.com)
