@@ -20,14 +20,14 @@ I am
 
 Previous projects (Unity) :
 
-3D Platformer (My first project):
+3D Platformer (My first project)
 (around 2016, created several simmilar platformers afterwards)
 
-- 🔁 Respawn mechanics after falling or failing
+- 🔁 Respawn mechanics after falling
 
 - 🧑‍🎨 In-game HUD
 
-Online Shooter:
+Online Shooter
 (2018)
 A basic multiplayer shooter featuring:
 
@@ -37,7 +37,7 @@ A basic multiplayer shooter featuring:
 
 - 🧠 Basic NPC AI for target practice or PvE scenarios
 
-Survival:
+Survival
 (2019)
 A forest survival game where you play as a child, featuring:
 
@@ -49,27 +49,25 @@ A forest survival game where you play as a child, featuring:
 
 - 👾 Basic enemy AI – mysterious creatures appearing at night
 
-Platformer:
-(2020–2021)
+Platformer
+(2020-2021)
 A complete 3D platformer with:
 
-⏱️ Timer system tracking level completion time
+- ⏱️ Timer system tracking level completion time
 
-🔁 Respawn mechanics after falling
-
-🎮 Full gameplay loop – approx. 2 hours to complete from start to finish
-
-🧑‍🎨 Custom UI including menus and in-game HUD
-
-🧍‍♂️ Character selection feature
-
-🕴️ Double jump mechanic for enhanced movement and platforming
+- 🔁 Respawn mechanics after falling
 
 - 🎮 Full gameplay loop – approx. 2 hours to complete from start to finish
 
 - 🧑‍🎨 Custom UI including menus and in-game HUD
 
 - 🧍‍♂️ Character selection feature
+
+- 🕴️ Double jump mechanic for enhanced movement and platforming
+
+- 💎 Collectibles hidden throughout the levels
+
+- 🕳️ Secret passages leading to bonus areas and shortcuts
   
 How to reach me:
 [LinkedIn] (www.linkedin.com/in/marcjanna-surgiewicz-śliwińska-583aaa291)
