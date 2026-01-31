@@ -91,7 +91,7 @@ A complete 3D platformer with:
 
 ## 🩷 Currently working on:
   
-  🤍 **2D Metroidvania game with my friend 🤍
+  🤍 2D Metroidvania game with my friend 🤍
 
 ## 🤍 How to reach me:
 
